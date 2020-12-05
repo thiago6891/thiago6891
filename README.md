@@ -1,5 +1,7 @@
 <a href="https://stackoverflow.com/users/2479540/thiago-cordeiro"><img src="https://stackoverflow.com/users/flair/2479540.png" width="208" height="58" alt="profile for Thiago Cordeiro at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thiago Cordeiro at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<a href="https://app.pluralsight.com/profile/thiago-c-cordeiro"><img src="https://ps-cdn.s3-us-west-2.amazonaws.com/profile/social/my-tech-skills-portfolio-rectangle.png" width="208" alt="Profile of my skills on Pluralsight!" title="Profile of my skills on Pluralsight!"></a>
+
 <!--
 **thiago6891/thiago6891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
